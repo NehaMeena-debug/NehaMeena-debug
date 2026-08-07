@@ -233,11 +233,11 @@ Modern e-commerce frontend built with React and Tailwind CSS.
 
 📧 **Email:** [nehameena1874@gmail.com](mailto:nehameena1874@gmail.com)
 
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
+💼 **LinkedIn:** www.linkedin.com/in/neha-meena-contact
 
 💻 **GitHub:** https://github.com/Nehameena28
 
-🌐 **Portfolio:** https://your-portfolio-link.com
+🌐 **Portfolio:** https://neha-meena-portfolio.vercel.app/
 
 ---
 
